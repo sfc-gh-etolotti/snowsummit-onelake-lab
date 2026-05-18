@@ -1,0 +1,56 @@
+store_id,store_name,city,state,region,store_type,opening_date,square_footage
+101,New York Standard,New York,NY,Northeast,Flagship,2017-07-01,41803
+102,Buffalo Express,Buffalo,NY,Northeast,Flagship,2012-02-01,40088
+103,Albany Outlet,Albany,NY,Northeast,Express,2006-06-01,7519
+104,Boston Outlet,Boston,MA,Northeast,Outlet,2015-01-01,9916
+105,Cambridge Outlet,Cambridge,MA,Northeast,Standard,2018-06-01,31540
+106,Worcester Express,Worcester,MA,Northeast,Outlet,2010-12-01,33465
+107,Philadelphia Express,Philadelphia,PA,Northeast,Standard,2023-05-01,8679
+108,Pittsburgh Standard,Pittsburgh,PA,Northeast,Outlet,2013-08-01,40345
+109,Hartford Flagship,Hartford,CT,Northeast,Outlet,2017-06-01,24300
+110,New Haven Standard,New Haven,CT,Northeast,Express,2010-08-01,19931
+111,Stamford Express,Stamford,CT,Northeast,Flagship,2015-05-01,36857
+112,Newark Outlet,Newark,NJ,Northeast,Outlet,2007-04-01,39384
+113,Miami Outlet,Miami,FL,Southeast,Outlet,2020-11-01,4130
+114,Atlanta Outlet,Atlanta,GA,Southeast,Standard,2014-04-01,23067
+115,Charlotte Outlet,Charlotte,NC,Southeast,Express,2023-06-01,30885
+116,Raleigh Express,Raleigh,NC,Southeast,Outlet,2022-06-01,20754
+117,Durham Standard,Durham,NC,Southeast,Flagship,2014-05-01,15621
+118,Richmond Standard,Richmond,VA,Southeast,Standard,2008-12-01,17180
+119,Virginia Beach Express,Virginia Beach,VA,Southeast,Flagship,2020-05-01,15721
+120,Nashville Standard,Nashville,TN,Southeast,Express,2012-06-01,3927
+121,Memphis Express,Memphis,TN,Southeast,Flagship,2022-03-01,6573
+122,Chicago Standard,Chicago,IL,Midwest,Outlet,2014-12-01,9723
+123,Springfield Express,Springfield,IL,Midwest,Outlet,2005-10-01,34373
+124,Naperville Standard,Naperville,IL,Midwest,Flagship,2019-06-01,19546
+125,Columbus Outlet,Columbus,OH,Midwest,Outlet,2008-02-01,7855
+126,Cleveland Flagship,Cleveland,OH,Midwest,Standard,2023-11-01,12777
+127,Detroit Standard,Detroit,MI,Midwest,Flagship,2014-02-01,39573
+128,Grand Rapids Standard,Grand Rapids,MI,Midwest,Outlet,2018-10-01,32524
+129,Ann Arbor Outlet,Ann Arbor,MI,Midwest,Express,2019-05-01,40265
+130,Minneapolis Flagship,Minneapolis,MN,Midwest,Standard,2006-10-01,43993
+131,Saint Paul Flagship,Saint Paul,MN,Midwest,Standard,2011-05-01,18719
+132,Rochester Flagship,Rochester,MN,Midwest,Standard,2010-09-01,3175
+133,Milwaukee Outlet,Milwaukee,WI,Midwest,Express,2019-12-01,5139
+134,Madison Express,Madison,WI,Midwest,Outlet,2012-05-01,7664
+135,Houston Standard,Houston,TX,Southwest,Outlet,2012-05-01,10521
+136,Dallas Standard,Dallas,TX,Southwest,Express,2022-04-01,12321
+137,Austin Standard,Austin,TX,Southwest,Express,2007-01-01,41996
+138,Phoenix Outlet,Phoenix,AZ,Southwest,Flagship,2023-05-01,33716
+139,Tucson Outlet,Tucson,AZ,Southwest,Express,2014-12-01,35798
+140,Scottsdale Outlet,Scottsdale,AZ,Southwest,Flagship,2022-08-01,42192
+141,Las Vegas Express,Las Vegas,NV,Southwest,Express,2018-12-01,4695
+142,Albuquerque Flagship,Albuquerque,NM,Southwest,Express,2012-11-01,40764
+143,Denver Outlet,Denver,CO,Southwest,Express,2010-08-01,14894
+144,Los Angeles Outlet,Los Angeles,CA,West,Flagship,2018-11-01,33802
+145,San Francisco Express,San Francisco,CA,West,Express,2016-07-01,46917
+146,San Diego Express,San Diego,CA,West,Outlet,2008-03-01,48460
+147,Seattle Outlet,Seattle,WA,West,Flagship,2014-11-01,32807
+148,Tacoma Express,Tacoma,WA,West,Express,2007-06-01,10597
+149,Portland Outlet,Portland,OR,West,Outlet,2021-01-01,6552
+150,Eugene Express,Eugene,OR,West,Outlet,2011-09-01,43986
+151,Salt Lake City Express,Salt Lake City,UT,West,Standard,2006-04-01,21876
+152,Provo Outlet,Provo,UT,West,Flagship,2019-12-01,4891
+153,Honolulu Standard,Honolulu,HI,West,Express,2012-12-01,39099
+154,Hilo Outlet,Hilo,HI,West,Flagship,2005-09-01,17725
+155,Kailua Flagship,Kailua,HI,West,Standard,2008-08-01,35661

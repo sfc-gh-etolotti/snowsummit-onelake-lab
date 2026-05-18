@@ -1,0 +1,254 @@
+product_id,product_name,category,subcategory,brand,unit_cost,supplier_name
+1001,TechVolt Smartphones Basic,Electronics,Smartphones,TechVolt,60.11,Cascade Logistics
+1002,TechVolt Smartphones Pro,Electronics,Smartphones,TechVolt,126.22,Pacific Wholesale
+1003,TechVolt Smartphones Elite,Electronics,Smartphones,TechVolt,369.55,Northstar Procurement
+1004,NovaWave Smartphones Basic,Electronics,Smartphones,NovaWave,297.29,Atlas Distribution
+1005,PixelPro Smartphones Basic,Electronics,Smartphones,PixelPro,51.38,Meridian Imports
+1006,SoundMax Smartphones Basic,Electronics,Smartphones,SoundMax,303.0,Northstar Procurement
+1007,SoundMax Smartphones Pro,Electronics,Smartphones,SoundMax,103.42,Northstar Procurement
+1008,SoundMax Smartphones Elite,Electronics,Smartphones,SoundMax,212.66,Continental Goods
+1009,ByteEdge Smartphones Basic,Electronics,Smartphones,ByteEdge,142.7,Atlas Distribution
+1010,ByteEdge Smartphones Pro,Electronics,Smartphones,ByteEdge,380.61,Pacific Wholesale
+1011,ByteEdge Smartphones Elite,Electronics,Smartphones,ByteEdge,350.58,Pinnacle Trading
+1012,TechVolt Laptops Basic,Electronics,Laptops,TechVolt,81.96,Pinnacle Trading
+1013,TechVolt Laptops Pro,Electronics,Laptops,TechVolt,55.59,Harbor Freight Partners
+1014,NovaWave Laptops Basic,Electronics,Laptops,NovaWave,182.69,Pinnacle Trading
+1015,PixelPro Laptops Basic,Electronics,Laptops,PixelPro,135.94,Atlas Distribution
+1016,PixelPro Laptops Pro,Electronics,Laptops,PixelPro,366.22,Northstar Procurement
+1017,PixelPro Laptops Elite,Electronics,Laptops,PixelPro,66.79,Harbor Freight Partners
+1018,SoundMax Laptops Basic,Electronics,Laptops,SoundMax,278.26,Evergreen Supply Chain
+1019,ByteEdge Laptops Basic,Electronics,Laptops,ByteEdge,290.79,Summit Supply Co
+1020,ByteEdge Laptops Pro,Electronics,Laptops,ByteEdge,27.68,Meridian Imports
+1021,TechVolt Headphones Basic,Electronics,Headphones,TechVolt,492.68,Meridian Imports
+1022,TechVolt Headphones Pro,Electronics,Headphones,TechVolt,433.91,Harbor Freight Partners
+1023,NovaWave Headphones Basic,Electronics,Headphones,NovaWave,229.44,Pinnacle Trading
+1024,NovaWave Headphones Pro,Electronics,Headphones,NovaWave,85.51,Pinnacle Trading
+1025,PixelPro Headphones Basic,Electronics,Headphones,PixelPro,336.74,Summit Supply Co
+1026,SoundMax Headphones Basic,Electronics,Headphones,SoundMax,319.31,Northstar Procurement
+1027,SoundMax Headphones Pro,Electronics,Headphones,SoundMax,365.92,Pacific Wholesale
+1028,SoundMax Headphones Elite,Electronics,Headphones,SoundMax,233.82,Cascade Logistics
+1029,ByteEdge Headphones Basic,Electronics,Headphones,ByteEdge,345.64,Meridian Imports
+1030,ByteEdge Headphones Pro,Electronics,Headphones,ByteEdge,343.88,Atlas Distribution
+1031,ByteEdge Headphones Elite,Electronics,Headphones,ByteEdge,118.38,Atlas Distribution
+1032,TechVolt Tablets Basic,Electronics,Tablets,TechVolt,203.58,Summit Supply Co
+1033,TechVolt Tablets Pro,Electronics,Tablets,TechVolt,109.44,Evergreen Supply Chain
+1034,NovaWave Tablets Basic,Electronics,Tablets,NovaWave,160.77,Continental Goods
+1035,NovaWave Tablets Pro,Electronics,Tablets,NovaWave,200.84,Continental Goods
+1036,NovaWave Tablets Elite,Electronics,Tablets,NovaWave,75.72,Pacific Wholesale
+1037,PixelPro Tablets Basic,Electronics,Tablets,PixelPro,373.77,Northstar Procurement
+1038,SoundMax Tablets Basic,Electronics,Tablets,SoundMax,374.77,Harbor Freight Partners
+1039,SoundMax Tablets Pro,Electronics,Tablets,SoundMax,449.42,Harbor Freight Partners
+1040,ByteEdge Tablets Basic,Electronics,Tablets,ByteEdge,113.56,Pacific Wholesale
+1041,ByteEdge Tablets Pro,Electronics,Tablets,ByteEdge,257.22,Summit Supply Co
+1042,TechVolt Cameras Basic,Electronics,Cameras,TechVolt,431.25,Pacific Wholesale
+1043,NovaWave Cameras Basic,Electronics,Cameras,NovaWave,84.19,Harbor Freight Partners
+1044,NovaWave Cameras Pro,Electronics,Cameras,NovaWave,300.22,Harbor Freight Partners
+1045,NovaWave Cameras Elite,Electronics,Cameras,NovaWave,193.9,Continental Goods
+1046,PixelPro Cameras Basic,Electronics,Cameras,PixelPro,129.45,Northstar Procurement
+1047,PixelPro Cameras Pro,Electronics,Cameras,PixelPro,431.09,Atlas Distribution
+1048,PixelPro Cameras Elite,Electronics,Cameras,PixelPro,341.74,Summit Supply Co
+1049,SoundMax Cameras Basic,Electronics,Cameras,SoundMax,442.97,Cascade Logistics
+1050,SoundMax Cameras Pro,Electronics,Cameras,SoundMax,385.46,Pinnacle Trading
+1051,SoundMax Cameras Elite,Electronics,Cameras,SoundMax,60.22,Harbor Freight Partners
+1052,ByteEdge Cameras Basic,Electronics,Cameras,ByteEdge,229.59,Cascade Logistics
+1053,UrbanThread Mens Tops Basic,Clothing,Mens Tops,UrbanThread,382.17,Northstar Procurement
+1054,UrbanThread Mens Tops Pro,Clothing,Mens Tops,UrbanThread,456.75,Cascade Logistics
+1055,UrbanThread Mens Tops Elite,Clothing,Mens Tops,UrbanThread,421.63,Northstar Procurement
+1056,PeakWear Mens Tops Basic,Clothing,Mens Tops,PeakWear,103.46,Pinnacle Trading
+1057,PeakWear Mens Tops Pro,Clothing,Mens Tops,PeakWear,382.44,Northstar Procurement
+1058,PeakWear Mens Tops Elite,Clothing,Mens Tops,PeakWear,476.98,Northstar Procurement
+1059,Classique Mens Tops Basic,Clothing,Mens Tops,Classique,301.48,Continental Goods
+1060,TrailBlaze Mens Tops Basic,Clothing,Mens Tops,TrailBlaze,60.37,Pinnacle Trading
+1061,CozyKnit Mens Tops Basic,Clothing,Mens Tops,CozyKnit,123.53,Meridian Imports
+1062,CozyKnit Mens Tops Pro,Clothing,Mens Tops,CozyKnit,439.61,Summit Supply Co
+1063,UrbanThread Womens Tops Basic,Clothing,Womens Tops,UrbanThread,367.29,Summit Supply Co
+1064,PeakWear Womens Tops Basic,Clothing,Womens Tops,PeakWear,384.09,Pacific Wholesale
+1065,PeakWear Womens Tops Pro,Clothing,Womens Tops,PeakWear,331.58,Northstar Procurement
+1066,PeakWear Womens Tops Elite,Clothing,Womens Tops,PeakWear,86.74,Northstar Procurement
+1067,Classique Womens Tops Basic,Clothing,Womens Tops,Classique,214.45,Meridian Imports
+1068,Classique Womens Tops Pro,Clothing,Womens Tops,Classique,464.81,Meridian Imports
+1069,Classique Womens Tops Elite,Clothing,Womens Tops,Classique,357.91,Harbor Freight Partners
+1070,TrailBlaze Womens Tops Basic,Clothing,Womens Tops,TrailBlaze,326.69,Continental Goods
+1071,TrailBlaze Womens Tops Pro,Clothing,Womens Tops,TrailBlaze,450.31,Continental Goods
+1072,TrailBlaze Womens Tops Elite,Clothing,Womens Tops,TrailBlaze,64.9,Meridian Imports
+1073,CozyKnit Womens Tops Basic,Clothing,Womens Tops,CozyKnit,172.35,Evergreen Supply Chain
+1074,UrbanThread Pants Basic,Clothing,Pants,UrbanThread,118.91,Meridian Imports
+1075,UrbanThread Pants Pro,Clothing,Pants,UrbanThread,8.56,Atlas Distribution
+1076,UrbanThread Pants Elite,Clothing,Pants,UrbanThread,118.33,Atlas Distribution
+1077,PeakWear Pants Basic,Clothing,Pants,PeakWear,40.07,Meridian Imports
+1078,PeakWear Pants Pro,Clothing,Pants,PeakWear,142.85,Continental Goods
+1079,Classique Pants Basic,Clothing,Pants,Classique,271.92,Evergreen Supply Chain
+1080,TrailBlaze Pants Basic,Clothing,Pants,TrailBlaze,238.97,Continental Goods
+1081,TrailBlaze Pants Pro,Clothing,Pants,TrailBlaze,404.71,Meridian Imports
+1082,TrailBlaze Pants Elite,Clothing,Pants,TrailBlaze,51.69,Harbor Freight Partners
+1083,CozyKnit Pants Basic,Clothing,Pants,CozyKnit,214.67,Continental Goods
+1084,CozyKnit Pants Pro,Clothing,Pants,CozyKnit,432.6,Atlas Distribution
+1085,UrbanThread Outerwear Basic,Clothing,Outerwear,UrbanThread,328.46,Summit Supply Co
+1086,UrbanThread Outerwear Pro,Clothing,Outerwear,UrbanThread,35.0,Pinnacle Trading
+1087,UrbanThread Outerwear Elite,Clothing,Outerwear,UrbanThread,401.29,Summit Supply Co
+1088,PeakWear Outerwear Basic,Clothing,Outerwear,PeakWear,99.84,Northstar Procurement
+1089,Classique Outerwear Basic,Clothing,Outerwear,Classique,74.39,Pacific Wholesale
+1090,Classique Outerwear Pro,Clothing,Outerwear,Classique,142.88,Meridian Imports
+1091,TrailBlaze Outerwear Basic,Clothing,Outerwear,TrailBlaze,224.35,Northstar Procurement
+1092,CozyKnit Outerwear Basic,Clothing,Outerwear,CozyKnit,30.04,Northstar Procurement
+1093,UrbanThread Activewear Basic,Clothing,Activewear,UrbanThread,484.65,Meridian Imports
+1094,PeakWear Activewear Basic,Clothing,Activewear,PeakWear,206.17,Continental Goods
+1095,Classique Activewear Basic,Clothing,Activewear,Classique,433.0,Atlas Distribution
+1096,TrailBlaze Activewear Basic,Clothing,Activewear,TrailBlaze,192.59,Harbor Freight Partners
+1097,CozyKnit Activewear Basic,Clothing,Activewear,CozyKnit,463.63,Continental Goods
+1098,CozyKnit Activewear Pro,Clothing,Activewear,CozyKnit,146.2,Northstar Procurement
+1099,HomeNest Kitchen Basic,Home & Garden,Kitchen,HomeNest,360.61,Pacific Wholesale
+1100,HomeNest Kitchen Pro,Home & Garden,Kitchen,HomeNest,99.0,Meridian Imports
+1101,HomeNest Kitchen Elite,Home & Garden,Kitchen,HomeNest,484.51,Evergreen Supply Chain
+1102,GreenThumb Kitchen Basic,Home & Garden,Kitchen,GreenThumb,273.39,Pinnacle Trading
+1103,GreenThumb Kitchen Pro,Home & Garden,Kitchen,GreenThumb,33.3,Evergreen Supply Chain
+1104,GreenThumb Kitchen Elite,Home & Garden,Kitchen,GreenThumb,241.01,Northstar Procurement
+1105,BrightLux Kitchen Basic,Home & Garden,Kitchen,BrightLux,33.16,Northstar Procurement
+1106,CraftMaster Kitchen Basic,Home & Garden,Kitchen,CraftMaster,426.41,Summit Supply Co
+1107,PatioLife Kitchen Basic,Home & Garden,Kitchen,PatioLife,38.64,Meridian Imports
+1108,PatioLife Kitchen Pro,Home & Garden,Kitchen,PatioLife,204.87,Evergreen Supply Chain
+1109,PatioLife Kitchen Elite,Home & Garden,Kitchen,PatioLife,126.88,Evergreen Supply Chain
+1110,HomeNest Bedding Basic,Home & Garden,Bedding,HomeNest,311.59,Harbor Freight Partners
+1111,GreenThumb Bedding Basic,Home & Garden,Bedding,GreenThumb,293.92,Northstar Procurement
+1112,GreenThumb Bedding Pro,Home & Garden,Bedding,GreenThumb,161.6,Cascade Logistics
+1113,GreenThumb Bedding Elite,Home & Garden,Bedding,GreenThumb,106.11,Pinnacle Trading
+1114,BrightLux Bedding Basic,Home & Garden,Bedding,BrightLux,136.48,Pacific Wholesale
+1115,CraftMaster Bedding Basic,Home & Garden,Bedding,CraftMaster,324.52,Continental Goods
+1116,CraftMaster Bedding Pro,Home & Garden,Bedding,CraftMaster,161.51,Summit Supply Co
+1117,CraftMaster Bedding Elite,Home & Garden,Bedding,CraftMaster,9.61,Evergreen Supply Chain
+1118,PatioLife Bedding Basic,Home & Garden,Bedding,PatioLife,498.07,Summit Supply Co
+1119,PatioLife Bedding Pro,Home & Garden,Bedding,PatioLife,271.13,Northstar Procurement
+1120,PatioLife Bedding Elite,Home & Garden,Bedding,PatioLife,136.27,Pinnacle Trading
+1121,HomeNest Lighting Basic,Home & Garden,Lighting,HomeNest,440.24,Pinnacle Trading
+1122,GreenThumb Lighting Basic,Home & Garden,Lighting,GreenThumb,83.08,Northstar Procurement
+1123,GreenThumb Lighting Pro,Home & Garden,Lighting,GreenThumb,353.25,Evergreen Supply Chain
+1124,BrightLux Lighting Basic,Home & Garden,Lighting,BrightLux,266.83,Northstar Procurement
+1125,BrightLux Lighting Pro,Home & Garden,Lighting,BrightLux,153.19,Summit Supply Co
+1126,BrightLux Lighting Elite,Home & Garden,Lighting,BrightLux,469.77,Pacific Wholesale
+1127,CraftMaster Lighting Basic,Home & Garden,Lighting,CraftMaster,62.14,Summit Supply Co
+1128,CraftMaster Lighting Pro,Home & Garden,Lighting,CraftMaster,372.5,Pacific Wholesale
+1129,PatioLife Lighting Basic,Home & Garden,Lighting,PatioLife,144.47,Meridian Imports
+1130,PatioLife Lighting Pro,Home & Garden,Lighting,PatioLife,360.22,Meridian Imports
+1131,HomeNest Tools Basic,Home & Garden,Tools,HomeNest,318.95,Cascade Logistics
+1132,HomeNest Tools Pro,Home & Garden,Tools,HomeNest,255.18,Cascade Logistics
+1133,HomeNest Tools Elite,Home & Garden,Tools,HomeNest,453.14,Atlas Distribution
+1134,GreenThumb Tools Basic,Home & Garden,Tools,GreenThumb,318.97,Cascade Logistics
+1135,BrightLux Tools Basic,Home & Garden,Tools,BrightLux,6.76,Pacific Wholesale
+1136,CraftMaster Tools Basic,Home & Garden,Tools,CraftMaster,490.0,Pacific Wholesale
+1137,CraftMaster Tools Pro,Home & Garden,Tools,CraftMaster,371.91,Northstar Procurement
+1138,CraftMaster Tools Elite,Home & Garden,Tools,CraftMaster,354.31,Northstar Procurement
+1139,PatioLife Tools Basic,Home & Garden,Tools,PatioLife,60.38,Pacific Wholesale
+1140,HomeNest Outdoor Basic,Home & Garden,Outdoor,HomeNest,22.83,Pinnacle Trading
+1141,HomeNest Outdoor Pro,Home & Garden,Outdoor,HomeNest,293.34,Pacific Wholesale
+1142,HomeNest Outdoor Elite,Home & Garden,Outdoor,HomeNest,217.74,Atlas Distribution
+1143,GreenThumb Outdoor Basic,Home & Garden,Outdoor,GreenThumb,185.5,Atlas Distribution
+1144,GreenThumb Outdoor Pro,Home & Garden,Outdoor,GreenThumb,449.97,Meridian Imports
+1145,BrightLux Outdoor Basic,Home & Garden,Outdoor,BrightLux,128.52,Summit Supply Co
+1146,BrightLux Outdoor Pro,Home & Garden,Outdoor,BrightLux,180.07,Northstar Procurement
+1147,BrightLux Outdoor Elite,Home & Garden,Outdoor,BrightLux,442.65,Harbor Freight Partners
+1148,CraftMaster Outdoor Basic,Home & Garden,Outdoor,CraftMaster,375.99,Meridian Imports
+1149,CraftMaster Outdoor Pro,Home & Garden,Outdoor,CraftMaster,432.98,Pacific Wholesale
+1150,CraftMaster Outdoor Elite,Home & Garden,Outdoor,CraftMaster,441.3,Atlas Distribution
+1151,PatioLife Outdoor Basic,Home & Garden,Outdoor,PatioLife,369.6,Pinnacle Trading
+1152,SprintForce Running Basic,Sports,Running,SprintForce,402.11,Meridian Imports
+1153,SprintForce Running Pro,Sports,Running,SprintForce,137.07,Summit Supply Co
+1154,VeloGear Running Basic,Sports,Running,VeloGear,436.72,Continental Goods
+1155,VeloGear Running Pro,Sports,Running,VeloGear,115.1,Continental Goods
+1156,IronPulse Running Basic,Sports,Running,IronPulse,156.07,Meridian Imports
+1157,IronPulse Running Pro,Sports,Running,IronPulse,115.35,Meridian Imports
+1158,WildTrail Running Basic,Sports,Running,WildTrail,167.49,Summit Supply Co
+1159,WildTrail Running Pro,Sports,Running,WildTrail,483.61,Cascade Logistics
+1160,AquaFlow Running Basic,Sports,Running,AquaFlow,322.53,Harbor Freight Partners
+1161,AquaFlow Running Pro,Sports,Running,AquaFlow,341.36,Northstar Procurement
+1162,SprintForce Cycling Basic,Sports,Cycling,SprintForce,469.92,Summit Supply Co
+1163,SprintForce Cycling Pro,Sports,Cycling,SprintForce,439.13,Cascade Logistics
+1164,VeloGear Cycling Basic,Sports,Cycling,VeloGear,292.39,Cascade Logistics
+1165,IronPulse Cycling Basic,Sports,Cycling,IronPulse,58.66,Harbor Freight Partners
+1166,WildTrail Cycling Basic,Sports,Cycling,WildTrail,365.63,Pinnacle Trading
+1167,WildTrail Cycling Pro,Sports,Cycling,WildTrail,221.01,Northstar Procurement
+1168,AquaFlow Cycling Basic,Sports,Cycling,AquaFlow,195.67,Evergreen Supply Chain
+1169,SprintForce Fitness Basic,Sports,Fitness,SprintForce,131.09,Harbor Freight Partners
+1170,VeloGear Fitness Basic,Sports,Fitness,VeloGear,262.36,Northstar Procurement
+1171,IronPulse Fitness Basic,Sports,Fitness,IronPulse,361.12,Meridian Imports
+1172,IronPulse Fitness Pro,Sports,Fitness,IronPulse,185.29,Summit Supply Co
+1173,IronPulse Fitness Elite,Sports,Fitness,IronPulse,474.69,Pinnacle Trading
+1174,WildTrail Fitness Basic,Sports,Fitness,WildTrail,160.39,Summit Supply Co
+1175,WildTrail Fitness Pro,Sports,Fitness,WildTrail,361.28,Cascade Logistics
+1176,WildTrail Fitness Elite,Sports,Fitness,WildTrail,256.03,Harbor Freight Partners
+1177,AquaFlow Fitness Basic,Sports,Fitness,AquaFlow,204.19,Cascade Logistics
+1178,AquaFlow Fitness Pro,Sports,Fitness,AquaFlow,279.43,Meridian Imports
+1179,SprintForce Camping Basic,Sports,Camping,SprintForce,334.14,Harbor Freight Partners
+1180,SprintForce Camping Pro,Sports,Camping,SprintForce,340.27,Pacific Wholesale
+1181,VeloGear Camping Basic,Sports,Camping,VeloGear,286.71,Harbor Freight Partners
+1182,VeloGear Camping Pro,Sports,Camping,VeloGear,276.23,Atlas Distribution
+1183,VeloGear Camping Elite,Sports,Camping,VeloGear,155.42,Meridian Imports
+1184,IronPulse Camping Basic,Sports,Camping,IronPulse,393.95,Evergreen Supply Chain
+1185,IronPulse Camping Pro,Sports,Camping,IronPulse,329.08,Continental Goods
+1186,WildTrail Camping Basic,Sports,Camping,WildTrail,223.87,Meridian Imports
+1187,WildTrail Camping Pro,Sports,Camping,WildTrail,258.03,Pacific Wholesale
+1188,AquaFlow Camping Basic,Sports,Camping,AquaFlow,46.97,Northstar Procurement
+1189,AquaFlow Camping Pro,Sports,Camping,AquaFlow,333.61,Evergreen Supply Chain
+1190,AquaFlow Camping Elite,Sports,Camping,AquaFlow,170.92,Meridian Imports
+1191,SprintForce Water Sports Basic,Sports,Water Sports,SprintForce,158.66,Meridian Imports
+1192,SprintForce Water Sports Pro,Sports,Water Sports,SprintForce,77.94,Atlas Distribution
+1193,SprintForce Water Sports Elite,Sports,Water Sports,SprintForce,126.2,Continental Goods
+1194,VeloGear Water Sports Basic,Sports,Water Sports,VeloGear,425.62,Summit Supply Co
+1195,VeloGear Water Sports Pro,Sports,Water Sports,VeloGear,230.43,Evergreen Supply Chain
+1196,VeloGear Water Sports Elite,Sports,Water Sports,VeloGear,101.25,Harbor Freight Partners
+1197,IronPulse Water Sports Basic,Sports,Water Sports,IronPulse,202.83,Pacific Wholesale
+1198,IronPulse Water Sports Pro,Sports,Water Sports,IronPulse,329.75,Atlas Distribution
+1199,WildTrail Water Sports Basic,Sports,Water Sports,WildTrail,390.32,Meridian Imports
+1200,AquaFlow Water Sports Basic,Sports,Water Sports,AquaFlow,403.03,Northstar Procurement
+1201,FreshBite Snacks Basic,Food & Beverage,Snacks,FreshBite,29.86,Meridian Imports
+1202,FreshBite Snacks Pro,Food & Beverage,Snacks,FreshBite,459.15,Summit Supply Co
+1203,PureBlend Snacks Basic,Food & Beverage,Snacks,PureBlend,71.0,Continental Goods
+1204,PureBlend Snacks Pro,Food & Beverage,Snacks,PureBlend,335.45,Northstar Procurement
+1205,GreenHarvest Snacks Basic,Food & Beverage,Snacks,GreenHarvest,162.06,Continental Goods
+1206,GreenHarvest Snacks Pro,Food & Beverage,Snacks,GreenHarvest,308.26,Northstar Procurement
+1207,GreenHarvest Snacks Elite,Food & Beverage,Snacks,GreenHarvest,216.24,Northstar Procurement
+1208,FrostPick Snacks Basic,Food & Beverage,Snacks,FrostPick,449.12,Continental Goods
+1209,FrostPick Snacks Pro,Food & Beverage,Snacks,FrostPick,227.78,Meridian Imports
+1210,GoldenCrust Snacks Basic,Food & Beverage,Snacks,GoldenCrust,142.27,Northstar Procurement
+1211,GoldenCrust Snacks Pro,Food & Beverage,Snacks,GoldenCrust,244.88,Meridian Imports
+1212,GoldenCrust Snacks Elite,Food & Beverage,Snacks,GoldenCrust,140.93,Summit Supply Co
+1213,FreshBite Beverages Basic,Food & Beverage,Beverages,FreshBite,146.44,Cascade Logistics
+1214,FreshBite Beverages Pro,Food & Beverage,Beverages,FreshBite,171.24,Northstar Procurement
+1215,FreshBite Beverages Elite,Food & Beverage,Beverages,FreshBite,44.89,Pacific Wholesale
+1216,PureBlend Beverages Basic,Food & Beverage,Beverages,PureBlend,194.6,Pacific Wholesale
+1217,GreenHarvest Beverages Basic,Food & Beverage,Beverages,GreenHarvest,110.91,Harbor Freight Partners
+1218,GreenHarvest Beverages Pro,Food & Beverage,Beverages,GreenHarvest,206.76,Northstar Procurement
+1219,GreenHarvest Beverages Elite,Food & Beverage,Beverages,GreenHarvest,235.63,Atlas Distribution
+1220,FrostPick Beverages Basic,Food & Beverage,Beverages,FrostPick,417.28,Harbor Freight Partners
+1221,GoldenCrust Beverages Basic,Food & Beverage,Beverages,GoldenCrust,473.3,Atlas Distribution
+1222,GoldenCrust Beverages Pro,Food & Beverage,Beverages,GoldenCrust,429.08,Evergreen Supply Chain
+1223,GoldenCrust Beverages Elite,Food & Beverage,Beverages,GoldenCrust,193.29,Atlas Distribution
+1224,FreshBite Organic Basic,Food & Beverage,Organic,FreshBite,152.81,Harbor Freight Partners
+1225,FreshBite Organic Pro,Food & Beverage,Organic,FreshBite,427.46,Harbor Freight Partners
+1226,PureBlend Organic Basic,Food & Beverage,Organic,PureBlend,375.02,Northstar Procurement
+1227,PureBlend Organic Pro,Food & Beverage,Organic,PureBlend,400.93,Meridian Imports
+1228,PureBlend Organic Elite,Food & Beverage,Organic,PureBlend,246.67,Cascade Logistics
+1229,GreenHarvest Organic Basic,Food & Beverage,Organic,GreenHarvest,245.39,Harbor Freight Partners
+1230,GreenHarvest Organic Pro,Food & Beverage,Organic,GreenHarvest,171.38,Harbor Freight Partners
+1231,FrostPick Organic Basic,Food & Beverage,Organic,FrostPick,86.7,Continental Goods
+1232,FrostPick Organic Pro,Food & Beverage,Organic,FrostPick,460.17,Evergreen Supply Chain
+1233,FrostPick Organic Elite,Food & Beverage,Organic,FrostPick,269.39,Harbor Freight Partners
+1234,GoldenCrust Organic Basic,Food & Beverage,Organic,GoldenCrust,284.37,Atlas Distribution
+1235,GoldenCrust Organic Pro,Food & Beverage,Organic,GoldenCrust,46.55,Harbor Freight Partners
+1236,GoldenCrust Organic Elite,Food & Beverage,Organic,GoldenCrust,72.17,Continental Goods
+1237,FreshBite Frozen Basic,Food & Beverage,Frozen,FreshBite,29.89,Harbor Freight Partners
+1238,PureBlend Frozen Basic,Food & Beverage,Frozen,PureBlend,109.77,Pinnacle Trading
+1239,PureBlend Frozen Pro,Food & Beverage,Frozen,PureBlend,172.06,Harbor Freight Partners
+1240,GreenHarvest Frozen Basic,Food & Beverage,Frozen,GreenHarvest,377.24,Harbor Freight Partners
+1241,GreenHarvest Frozen Pro,Food & Beverage,Frozen,GreenHarvest,129.87,Summit Supply Co
+1242,FrostPick Frozen Basic,Food & Beverage,Frozen,FrostPick,14.59,Northstar Procurement
+1243,FrostPick Frozen Pro,Food & Beverage,Frozen,FrostPick,30.78,Pinnacle Trading
+1244,GoldenCrust Frozen Basic,Food & Beverage,Frozen,GoldenCrust,326.82,Atlas Distribution
+1245,FreshBite Bakery Basic,Food & Beverage,Bakery,FreshBite,475.06,Meridian Imports
+1246,PureBlend Bakery Basic,Food & Beverage,Bakery,PureBlend,312.56,Meridian Imports
+1247,GreenHarvest Bakery Basic,Food & Beverage,Bakery,GreenHarvest,239.41,Summit Supply Co
+1248,FrostPick Bakery Basic,Food & Beverage,Bakery,FrostPick,474.14,Continental Goods
+1249,FrostPick Bakery Pro,Food & Beverage,Bakery,FrostPick,351.24,Pinnacle Trading
+1250,FrostPick Bakery Elite,Food & Beverage,Bakery,FrostPick,88.06,Evergreen Supply Chain
+1251,GoldenCrust Bakery Basic,Food & Beverage,Bakery,GoldenCrust,360.59,Pacific Wholesale
+1252,GoldenCrust Bakery Pro,Food & Beverage,Bakery,GoldenCrust,482.54,Summit Supply Co
+1253,GoldenCrust Bakery Elite,Food & Beverage,Bakery,GoldenCrust,291.45,Cascade Logistics
