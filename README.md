@@ -25,22 +25,7 @@ This lab demonstrates the full bi-directional workflow: uploading raw retail dat
 
 ### What You Will Build
 
-```
-Fabric Lakehouse (RetailRaw)
-  4 raw CSV tables (transactions, products, stores, customers)
-     |
-     v  Catalog Linked Database (zero-copy read via Iceberg REST Catalog)
-Snowflake
-  Reads raw data directly from OneLake Parquet files -- no data copied
-     |
-     v  Star schema transformation (Snowflake compute)
-Snowflake-managed Iceberg (SNOWSUMMIT_ANALYTICS_ONELAKE)
-  5 curated tables written as Parquet to OneLake, managed by Snowflake Horizon
-     |
-     v  Native read (Direct Lake mode)
-Fabric / Power BI
-  Reads the Iceberg tables directly from OneLake -- no Snowflake connector needed
-```
+You will build a fully interoperable, open lakehouse by integrating Snowflake with Microsoft OneLake. You will get sample data in Fabric, create an external volume, set up OneLake as an Catalog Linked Database in Snowflake, and create Iceberg tables in OneLake. The end result is a seamless data architecture where Snowflake can manage and query data stored in the open formats of OneLake.
 
 ---
 
