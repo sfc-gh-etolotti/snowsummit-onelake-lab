@@ -44,7 +44,7 @@ Fabric / Power BI
 
 ---
 
-## How to Run This Lab (Recommended: Cortex Code)
+## How to Run This Lab
 
 This lab is designed to be delivered through **[Cortex Code (CoCo)](https://docs.snowflake.com/en/user-guide/ui-snowsight/cortex-code)** -- Snowflake's built-in AI IDE. CoCo explains every concept before executing SQL, pauses for your acknowledgement at each step, and guides you through the manual Fabric/Azure configuration steps. Nothing executes without a "go".
 
@@ -82,7 +82,7 @@ Type **"snowsummit"** in CoCo and say **"go"** to begin. CoCo will walk you thro
 
 ---
 
-## Manual Walkthrough (if not using CoCo)
+## Manual Walkthrough
 
 If you prefer to follow along manually in a Snowflake SQL worksheet, all steps and queries are documented below.
 
@@ -97,7 +97,7 @@ If you prefer to follow along manually in a Snowflake SQL worksheet, all steps a
 
 ### 1b. Enable Tenant Admin Settings
 
-Two settings must be enabled in the **Fabric Admin Portal** (requires Fabric Admin rights):
+Two settings must be enabled in the **Fabric Admin Portal** :
 
 1. Open **Settings** (gear icon) -> **Admin portal**
 2. Under **Tenant settings** -> **OneLake settings**: Enable **"Users can access data stored in OneLake with apps external to Fabric"**
