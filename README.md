@@ -10,10 +10,10 @@ This lab demonstrates the full bi-directional workflow: uploading raw retail dat
 
 ### Prerequisites
 
-- A [Snowflake account](https://signup.snowflake.com/) with ACCOUNTADMIN access (trial works)
-- A [Microsoft Fabric workspace](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) with capacity (trial works)
-- An Azure subscription for App Registration (comes with Fabric trial)
-- Both platforms should have public internet access (no VNet)
+- A [Snowflake account](https://signup.snowflake.com/) with ACCOUNTADMIN access
+- A [Microsoft Fabric workspace](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) with capacity
+- An Azure Tenant with Entra admin
+- Both platforms should have public internet access
 
 ### What You Will Learn
 
