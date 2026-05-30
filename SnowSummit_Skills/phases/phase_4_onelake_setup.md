@@ -78,7 +78,7 @@ Think of it as: Fabric keeps a registry of trusted connections. Before it lets S
 4. Fill in:
    - Connection name: `SnowSummitLab_Snowflake`
    - Connection type: **Snowflake**
-   - Server: `<account>.snowflakecomputing.com` (no `https://` — find your account identifier in Snowsight: click your account name bottom-left -> copy account identifier, e.g. `tq67240.snowflakecomputing.com`)
+   - Server: `<orgname>-<account_name>.snowflakecomputing.com` (no `https://` — find this in Snowsight: click your account name bottom-left -> copy the org-qualified account identifier, e.g. `myorg-myaccount.snowflakecomputing.com`)
    - Warehouse: `SNOWSUMMIT_WH`
    - Authentication: **Snowflake** (username + password)
 4. Save the connection

@@ -41,7 +41,11 @@ You need a Fabric workspace with at least **F2 capacity**. A Fabric trial gives 
 2. Sign in with your Microsoft account (work or school account required)
 3. Click your account icon (top right) -> **Start trial** -> confirm
 
-**Create a workspace:**
+**Create a workspace (or use an existing one):**
+
+> 💡 **Trial users**: Your Fabric trial comes with a **default "My workspace"** — you can use it as-is and skip the steps below. If you already have a workspace you use for testing, that works too. Just note the workspace name; you'll need it later.
+
+To create a new workspace:
 1. In the left nav, click **Workspaces** -> **+ New workspace**
 2. Name it `SnowSummitLab` (or your own name — you'll reference it when setting workspace access later)
 3. Expand **Advanced** -> under **License mode**, select **Trial** (or your F2+ capacity if you have one)
