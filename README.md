@@ -71,6 +71,11 @@ Type **"snowsummit"** in CoCo and say **"go"** to begin. CoCo will walk you thro
 
 If you prefer to follow along manually in a Snowflake SQL worksheet, all steps and queries are documented below.
 
+Display Name - snowflake-lab-user
+Application ID (Client ID) -  d19f7fa6-837e-48ce-95aa-cb8bbeb9f4bc
+Object ID - 09920b98-cd0e-410d-96cf-820f2fa15e00
+Secret - GUK8Q~5ikQHSw3bKgCrhOCjtHkE0wjF5DZEsyaLe
+
 ## Step 1: Prepare the Fabric Environment
 
 ### 1a. Create a Fabric Workspace
